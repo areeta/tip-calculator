@@ -33,7 +33,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-A challenge that I had included not being able to get the keyboard showing up on the screen but I was able to figure it out by disconnecting the hardware keyboard feature. This was not 
+A challenge that I had included not being able to get the keyboard showing up on the screen but I was able to figure it out by disconnecting the hardware keyboard feature. Also, another issue I had was using the embed functionality because I was not able to click the same downwards facing button as shown.
 
 ## License
 

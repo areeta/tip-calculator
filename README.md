@@ -1,8 +1,6 @@
-# Pre-work - Tip Calculator
+# Tip Calculator
 
-This is a tip calculator application for iOS.
-
-Submitted by: Areeta Wong
+This is a tip calculator application for iOS CodePath. Submitted by: Areeta Wong
 
 Time spent: 1 hour spent in total
 
@@ -19,10 +17,6 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -37,7 +31,7 @@ A challenge that I had included not being able to get the keyboard showing up on
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Areeta Wong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
